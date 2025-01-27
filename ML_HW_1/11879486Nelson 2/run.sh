@@ -1,0 +1,1 @@
+#!/bin/bashcd mainpython3 main.py
